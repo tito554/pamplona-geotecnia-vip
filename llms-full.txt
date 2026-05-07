@@ -1,0 +1,59 @@
+# Pamplona
+
+> Geotechnical engineering company in Chile, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Aislacion Sismica](https://pamplona.geotecnia.vip/aislacion-sismica/)
+- [Amplificacion Sismica](https://pamplona.geotecnia.vip/amplificacion-sismica/)
+- [Asentamiento Diferencial](https://pamplona.geotecnia.vip/asentamiento-diferencial/)
+- [Calicatas Exploratorias](https://pamplona.geotecnia.vip/calicatas-exploratorias/)
+- [Cbr Vial](https://pamplona.geotecnia.vip/cbr-vial/)
+- [Cimentaciones](https://pamplona.geotecnia.vip/cimentaciones/)
+- [Cimentaciones Rellenos](https://pamplona.geotecnia.vip/cimentaciones-rellenos/)
+- [Compactacion Dinamica](https://pamplona.geotecnia.vip/compactacion-dinamica/)
+- [Compresion Simple](https://pamplona.geotecnia.vip/compresion-simple/)
+- [Densidad Cono Arena](https://pamplona.geotecnia.vip/densidad-cono-arena/)
+- [Deslizamientos](https://pamplona.geotecnia.vip/deslizamientos/)
+- [Dilatometro](https://pamplona.geotecnia.vip/dilatometro/)
+- [Drenaje Vial](https://pamplona.geotecnia.vip/drenaje-vial/)
+- [Ensayo Proctor](https://pamplona.geotecnia.vip/ensayo-proctor/)
+- [Ensayo Spt](https://pamplona.geotecnia.vip/ensayo-spt/)
+- [Ensayos In Situ](https://pamplona.geotecnia.vip/ensayos-in-situ/)
+- [Estabilidad Taludes](https://pamplona.geotecnia.vip/estabilidad-taludes/)
+- [Estabilizacion Cal Cemento](https://pamplona.geotecnia.vip/estabilizacion-cal-cemento/)
+- [Estudio Mecanica Suelos](https://pamplona.geotecnia.vip/estudio-mecanica-suelos/)
+- [Excavaciones Subterraneas](https://pamplona.geotecnia.vip/excavaciones-subterraneas/)
+- [Exploracion](https://pamplona.geotecnia.vip/exploracion/)
+- [Flujos Detritos](https://pamplona.geotecnia.vip/flujos-detritos/)
+- [Geofisica](https://pamplona.geotecnia.vip/geofisica/)
+- [Geomembranas](https://pamplona.geotecnia.vip/geomembranas/)
+- [Geotecnia Vial](https://pamplona.geotecnia.vip/geotecnia-vial/)
+- [Granulometria](https://pamplona.geotecnia.vip/granulometria/)
+- [Grouting](https://pamplona.geotecnia.vip/grouting/)
+- [Infiltracion](https://pamplona.geotecnia.vip/infiltracion/)
+- [Instrumentacion Geotecnica](https://pamplona.geotecnia.vip/instrumentacion-geotecnica/)
+- [Jet Grouting](https://pamplona.geotecnia.vip/jet-grouting/)
+- [Laboratorio](https://pamplona.geotecnia.vip/laboratorio/)
+- [Limites Atterberg](https://pamplona.geotecnia.vip/limites-atterberg/)
+- [Losa De Cimentacion](https://pamplona.geotecnia.vip/losa-de-cimentacion/)
+- [Masw Vs30](https://pamplona.geotecnia.vip/masw-vs30/)
+- [Mejoramiento](https://pamplona.geotecnia.vip/mejoramiento/)
+- [Microzonificacion Sismica](https://pamplona.geotecnia.vip/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://pamplona.geotecnia.vip/monitoreo-excavaciones/)
+- [Muros Contencion](https://pamplona.geotecnia.vip/muros-contencion/)
+- [Muros Mse](https://pamplona.geotecnia.vip/muros-mse/)
+- [Pilotes Friccion Punta](https://pamplona.geotecnia.vip/pilotes-friccion-punta/)
+- [Presurometro](https://pamplona.geotecnia.vip/presurometro/)
+- [Rellenos Sanitarios](https://pamplona.geotecnia.vip/rellenos-sanitarios/)
+- [Sismica](https://pamplona.geotecnia.vip/sismica/)
+- [Subrasante Vial](https://pamplona.geotecnia.vip/subrasante-vial/)
+- [Taludes Y Muros](https://pamplona.geotecnia.vip/taludes-y-muros/)
+- [Tuneles Suelo Blando](https://pamplona.geotecnia.vip/tuneles-suelo-blando/)
+- [Veleta Campo](https://pamplona.geotecnia.vip/veleta-campo/)
+
+## Contact
+- Website: https://pamplona.geotecnia.vip/
+
+## About
+This page provides information about geotechnical engineering services available in Chile.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
